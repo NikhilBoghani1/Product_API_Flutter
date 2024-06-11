@@ -1,0 +1,1 @@
+class Product {  String title;  double price;  String image;  String category;  Product({    required this.category,    required this.title,    required this.price,    required this.image,  });}
